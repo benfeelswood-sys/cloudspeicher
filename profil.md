@@ -343,6 +343,64 @@ Hauptquellen: Buch "Die FeelsWood Story 2.0" (2024), Buch "Auf dem Holzweg – E
 
 ---
 
+## E-Mail-Schreibstil (aus echten Mails gelernt)
+
+### Anrede & Signatur
+- **Partner / Subunternehmer / Bekannte:** Vorname + "du" → Unterschrift **"BEN"**
+- **Kunden:** "Frau/Herr [Nachname]" + "Sie" → Unterschrift **"Benjamin Stocksiefen"**
+- Kein "Sehr geehrte/r" — zu steif, nie verwenden
+
+### Ton & Sprache
+- Warm, persönlich, nie übertrieben — echter Mensch, kein Marketing-Roboter
+- Persönlicher Anknüpfungspunkt am Anfang, wenn vorhanden (Besuch, letztes Gespräch)
+- Umgangssprachliche Verstärker (informell): **"mega"**, "klasse", "schön"
+- Maximal ein Emoji pro Mail, nur informell: 😃
+- **Doppeltes Ausrufezeichen** am Abschluss: "!!"
+- Situativer Feiertagsgruß: "einen schönen Feiertag!!"
+
+### Typische Ben-Formulierungen
+- "sauber und realistisch planen"
+- "belastbare Grundlage schaffen"
+- "von Herzen" (bei empathischen Momenten)
+- "Baufamilien" (nie "Kunden")
+- "Schnellinvestitionsübersicht" (für erste Kostenorientierung)
+- "offen und ehrlich" als geschätzter Wert
+- "ehrliche Tabelle" für Transparenz bei Kosten
+
+### Struktur einer typischen Mail
+1. Persönlicher Opener (Dank, Bezug, Kompliment)
+2. Kontext / Referenz auf vorheriges Gespräch
+3. Inhalt klar und präzise (technische Details wenn nötig)
+4. Konkreter nächster Schritt / Bitte mit Deadline
+5. Warmer Abschluss ("Ich freue mich auf Ihre Rückmeldung!!")
+
+### Empathie-Muster (bei schwierigen Situationen)
+1. Dankbarkeit für Offenheit
+2. Echtes Mitgefühl zeigen
+3. Verständnis signalisieren
+4. Trotzdem klar und direkt zum nächsten Schritt
+5. Persönlichen Kraftwunsch am Ende
+
+### Was NIE in eine Mail kommt
+- Verkaufsdruck
+- Lange Einleitungen ohne Substanz
+- Greenwashing-Floskeln
+- Formelle Steifheit ("Sehr geehrte/r")
+
+### Operative Konditionen (aus Mails)
+- **Vor-Ort-Termin:** 500 € zzgl. MwSt. — wird bei Auftragserteilung gutgeschrieben
+- Verfügbarkeit transparent kommunizieren ("Herr Becker ist vorher noch in anderen Projekten involviert")
+
+### Team (bekannte Mitglieder)
+- **Micha** — Schlüssel-Team (Personenmarke-Dokument)
+- **Dirk** — Schlüssel-Team (Personenmarke-Dokument)
+- **Herr Becker** — Projektverantwortlicher / Bauleiter (aus Mail-Kontext, Rolle noch zu bestätigen)
+
+---
+
 ## Sonstiges / Offene Punkte
 
-*(wird mit jedem Gespräch ergänzt)*
+- Rolle von Herrn Becker im Team klären (Bauleiter? Architekt?)
+- Standard-Betreffzeilen erfragen
+- Feste E-Mail-Signatur (Telefon, Logo, Links) dokumentieren
+- Top-10-Kundenfragen sammeln für FAQ-Bot
