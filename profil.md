@@ -75,10 +75,24 @@ Hauptquellen: Buch "Die FeelsWood Story 2.0" (2024, Benjamin Stocksiefen) sowie 
 
 ## Zielgruppe
 
-- **Primär:** Private Bauherren im Rheinland (Bonn / Rhein-Sieg-Kreis), die an einem nachhaltigen Holzhaus, Anbau, Aufstockung oder Dachstuhl interessiert sind
-- **Sekundär:** Unternehmer und Nachfolger:innen in Familienbetrieben (Buchzielgruppe)
-- **Tertiär:** Handwerker-Nachwuchs, Zimmerer-Azubis, Fachpublikum (Vorträge, Fachzeitschriften wie MIKADO, Der Zimmermann)
-- **Wer NICHT angesprochen wird:** Überregionale Großkunden (regionale Fokussierung seit 2018), Billigkäufer
+### Persona "FEELS WOOD" — Sandra & Peter Schmitz (offizielle HBS-Persona)
+
+- **Alter:** 30–55 Jahre
+- **Berufe:** Beamte / Polizisten / Stadtmitarbeiter, Lehrer, Leitende Angestellte, Anwälte, Uni-Mitarbeiter / Professoren, Selbstständige
+- **Wohnort:** Köln / Bonn / Rhein-Sieg-Kreis (Radius)
+- **Kinder:** 0–3
+- **Hobbys:** Heimwerken, Fahrrad, Wandern, Wassersport, evtl. Fußball
+- **Einkommen:** gemeinsam mind. ca. 3.000–5.000 € netto
+- **Auto:** Audi, VW, Skoda, SEAT
+- **Charakter:** Naturverbunden, nachhaltig, qualitätsbewusst, herzlich, dankbar, ehrlich, liebevoll, ruhig, bodenständig, sehr fleißig, Öko-Gedanke, technikaffin (online / Social Media)
+- **Erwartung:** Besonderer Service, hohe Qualität, persönliche Begleitung, reibungsloser Ablauf, Sicherheit, Geborgenheit, Vertrauen
+- **Entscheidungsfindung:** Bauchentscheidung
+- **Mögliche Gründe gegen HBS:** Mangelnde Strukturiertheit, Sprunghaftigkeit, Betriebsgröße
+
+### Weitere Zielgruppen
+- **Unternehmer / Nachfolger:innen** in Familienbetrieben (Buchzielgruppe)
+- **Handwerker-Nachwuchs**, Zimmerer-Azubis, Fachpublikum (Vorträge, MIKADO, Der Zimmermann)
+- **Wer NICHT:** Überregionale Großkunden, Billigkäufer, Preisvergleicher
 
 ---
 
@@ -93,6 +107,78 @@ Hauptquellen: Buch "Die FeelsWood Story 2.0" (2024, Benjamin Stocksiefen) sowie 
   - "Geld ist Abfallprodukt von Erfolg"
 - **GREAT-Formel (lebensleitend):** Giving, Relating, Exercise, Awareness, Try out
 - **Engagement:** Spenden an Dr. Ehmann Kinderhaus Siegburg und Kinderkrebsstation Bonn (mehrere Verwandte an Krebs verstorben)
+
+---
+
+## Leistungsportfolio Holzbau Stocksiefen GmbH (ab 2026)
+
+- Marketing & Vertrieb
+- Architekturplanung (im Haus)
+- Ingenieurleistungen (extern)
+- AV / Werkstattplanung
+- Bauleitung
+- **Holzbauarbeiten:** Häuser, Anbauten, Aufstockung, Fassaden, Zuschnitte, Dachkomplett
+- Dachdeckerarbeiten
+- Gerüstarbeiten
+- Fenster- & Haustürarbeiten
+- Trockenbau
+- Innenausbau
+- Putzarbeiten (extern)
+- Treppenbau (extern)
+
+---
+
+## Kern-Erfolgsmodell VERKAUF (HBS / BEN)
+
+**Goldene Regel:** Energie nur aufwenden, wenn mindestens 8 von 9 Kriterien gegeben sind.
+
+1. **Eigene Planungsabteilung** (Architekten im Haus) — Alleinstellung
+2. **Erstgespräch im Büro** mit Kalkulation & Übersicht
+3. **Persönlicher Ben-Kontakt** bis zur Unterschrift
+4. **Regionalität 25 km** — regionale Projekte bevorzugen
+5. **Vorqualifizierte Fans** über YouTube & Social Media
+6. **Festpreis-Vertrauen** — keine Vergleichsangebote
+7. **Baubegleitung** als bezahlte Kernleistung
+8. **Gewerke aus einer Hand** — Gebäudehülle + Ingenieur + BL
+9. **Eigenleistung Baufamilien** — oft hoher Anteil
+
+---
+
+## Personenmarke BEN ("Chef zum Anfassen")
+
+**Vision bis 2042 (mit 55):** Verkaufen, Repräsentieren, mit Menschen — Mitarbeitern, Kunden, Interessenten, Lieferanten, Partnern — zusammen sein / glücklich machen.
+
+**Grundsätze:**
+- Alle Neu-Anfragen im **GOLD-Anfragen-Bereich** werden angerufen
+- Alle Angebote im GOLD-Bereich werden **persönlich überbracht**
+- Handy: in Arbeitszeiten erreichbar, Rückruf max. 4 Stunden
+- Interessenten / Kunden / Team sehen 1:1, was Ben / HBS tut — **Instagram-Devise: don't create, document**
+- **Mache alles genau anders als die anderen!** Sei kreativ!
+- **Nicht helfen, sondern unterstützen**
+- **Treffe Entscheidungen!** VERTEILEN & KONTROLLE
+- Schlüssel-Team: Micha, Dirk
+
+**Was andere über Ben sagen:**
+- Sonja & Lotta: zielstrebig, ausgeglichen, ruhig wenn Sonja launisch ist, gut planend, organisiert, belastbar, geduldig — "verdient so viel Geld & macht so gut Quatsch"
+- Papa: "Es gibt nur einen BEN. Privat, Beruf, Sport — 100 % authentisch, keine Maske"
+- Calvin Hollywood: Perfekte Personal Brand, kann verdammt gut reden, lange, gut, ausführlich und laut
+- Hermann Scherer: "Geile Holzsau, du kannst Produkte emotionalisieren — Holz und Benjamin sind ein und dasselbe — Fahnenträger"
+- Jürgen Seiffert: "FEELS WOOD = betont anders. Selten so einen extrovertierten Geschäftsführer gesehen. Spirit, Herzlichkeit, weltoffen, authentisch, Nutzen-orientiert ANDERS"
+
+**Tipps von Papa (für erfolgreichen Unternehmer):** Mut, nicht unterkriegen lassen, Geduld, Selbstdisziplin, Zuverlässigkeit, Zielstrebigkeit, Teamplayer, Gerechtigkeit, gesunder Körper & Geist, durchsetzen, kreativ, lernbereit, verantwortungsvoll mit Geld, intaktes soziales Umfeld, Familie hinter dir, risikobereit, unangenehme Aufgaben erledigen, Fähigkeiten objektiv einschätzen, Ausdauer, neugierig, eigenen Weg, klare Ziele, gute Ratschläge der Mitarbeiter ernst nehmen, selbstbewusst.
+
+---
+
+## Operative Prozessdokumente (vorhanden im Repo)
+
+- `Checkliste A-Z Holzbau bis AV.xlsx` — Verkauf: Erstgespräch bis Auftragserteilung
+- `Checkliste A-Z Holzbau nach AV 2025.xlsx` — nach Auftragserteilung, 16/12/8 Wochen vor Montage
+- `Checkliste A-Z Planung.xlsx` — Planungsphase, Bauantrag
+- `Checkliste Bauleitung.xlsx` — Bauleitungs-Detailliste, 355 Zeilen
+- `Erfolgreiche Kundenreisen.pdf` — Kern-Erfolgsmodell VERKAUF (Visualisierung)
+- `Persona HBS.docx` — offizielle Persona "Sandra & Peter Schmitz"
+- `Leistungen HBS.docx` — Leistungsportfolio ab 2026
+- `Chef zum anfassen Basics.docx` — Personenmarke BEN
 
 ---
 
