@@ -130,7 +130,7 @@ Hauptquellen: Buch "Die FeelsWood Story 2.0" (2024, Benjamin Stocksiefen) sowie 
 
 - **Webseite:** BenjaminStocksiefen.de (persönlich), holzbau-stocksiefen.de (Firma)
 - **Mail:** bs@feelswood.de
-- **YouTube:** "STOCKSIEFEN – FEELS WOOD" (>3.000 Abos, >500k Views)
+- **YouTube:** "STOCKSIEFEN – FEELS WOOD" (>3.000 Abos, >500k Views) — https://www.youtube.com/channel/UCyclTmwsQtVUweT8GvabhhQ
 - **Instagram:** ben_feelswood
 - **Facebook:** benjamin.stocksiefen
 - **LinkedIn:** benjamin-stocksiefen-51bb2b152
