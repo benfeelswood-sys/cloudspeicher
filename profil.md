@@ -183,7 +183,7 @@ Hauptquellen: Buch "Die FeelsWood Story 2.0" (2024), Buch "Auf dem Holzweg – E
 - **Mache alles genau anders als die anderen!** Sei kreativ!
 - **Nicht helfen, sondern unterstützen**
 - **Treffe Entscheidungen!** VERTEILEN & KONTROLLE
-- Schlüssel-Team: Micha, Dirk
+- Schlüssel-Team: Micha
 
 **Was andere über Ben sagen:**
 - Sonja & Lotta: zielstrebig, ausgeglichen, ruhig wenn Sonja launisch ist, gut planend, organisiert, belastbar, geduldig — "verdient so viel Geld & macht so gut Quatsch"
@@ -408,7 +408,7 @@ Hauptquellen: Buch "Die FeelsWood Story 2.0" (2024), Buch "Auf dem Holzweg – E
 - **Johannes Kindel** — Geselle
 - **Lukas Sprang** — Zimmerergeselle
 - **David Wiorkowski** — Azubi
-- **Dirk Grau** — Hilfsarbeiter (Schlüsselperson)
+- **Dirk Grau** — Hilfsarbeiter
 
 **Verwaltung:**
 - **Michael Stocksiefen** — Prokurist & Bürokaufmann (= Onkel, seit 1999 im Betrieb)
