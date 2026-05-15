@@ -138,6 +138,41 @@ Hauptquellen: Buch "Die FeelsWood Story 2.0" (2024, Benjamin Stocksiefen) sowie 
 
 ---
 
+## Einsatzgebiete für Claude (Was Ben von mir braucht)
+
+**Kerngeschäft im Fokus:** Alles rund um das Thema **Bauen mit Holz** — Holzhäuser, Anbauten, Aufstockungen. Tag für Tag werden Menschen dabei unterstützt, natürliche Wohnräume aus Holz zu realisieren.
+
+**Wofür Claude eingesetzt werden soll:**
+
+1. **Vertriebs-Support**
+   - Kundenkommunikation, Beratungs-Leitfäden
+   - Angebots- und E-Mail-Texte
+   - Einwandbehandlung, Argumentationshilfen
+   - Follow-up-Strategien
+
+2. **Social Media Content**
+   - Posts für Instagram, LinkedIn, Facebook
+   - YouTube-Skripte / Video-Konzepte
+   - Storytelling-Formate in der "feels wood"-Brand-Voice
+   - Reels, Shorts, Captions
+
+3. **Vorträge & Bühne**
+   - Reden ausarbeiten
+   - Speaker-Themen entwickeln
+   - Slides-Inhalte
+   - Pitches für Bühnen-Slots
+
+4. **Onlinekurse (geplantes neues Standbein)**
+   - Produktideen entwickeln
+   - Kurs-Curricula konzipieren
+   - Verkaufsseiten texten
+   - Funnel-Strategie
+   - Themen: alles rund um Bauen mit Holz
+
+**Wichtig:** Claude soll umfassendes Hintergrundwissen über Ben, die Firma, das Buch und die Branche haben — damit jede Unterstützung wirklich „nach Ben klingt" und ins Gesamtbild passt.
+
+---
+
 ## Sonstiges / Offene Punkte
 
 *(wird mit jedem Gespräch ergänzt)*
