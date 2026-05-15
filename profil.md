@@ -391,16 +391,55 @@ Hauptquellen: Buch "Die FeelsWood Story 2.0" (2024), Buch "Auf dem Holzweg – E
 - **Vor-Ort-Termin:** 500 € zzgl. MwSt. — wird bei Auftragserteilung gutgeschrieben
 - Verfügbarkeit transparent kommunizieren ("Herr Becker ist vorher noch in anderen Projekten involviert")
 
-### Team (bekannte Mitglieder)
-- **Micha** — Schlüssel-Team (Personenmarke-Dokument)
-- **Dirk** — Schlüssel-Team (Personenmarke-Dokument)
-- **Herr Becker** — Projektverantwortlicher / Bauleiter (aus Mail-Kontext, Rolle noch zu bestätigen)
+### Team (vollständig, Stand 2026)
+
+**Geschäftsführung:**
+- **Benjamin Stocksiefen** — Zimmermeister, Inhaber & Geschäftsführer
+
+**Planung:**
+- **Philipp Becker** — Architekt
+- **Julian Weber** — Junior Architekt
+
+**Umsetzung:**
+- **Michael Scholl ("Micha")** — Zimmermeister & AV/Werkplanung (Schlüsselperson)
+- **Markus Schlößer** — Zimmergeselle & Montageleitung
+- **Ingo Claren** — Zimmergeselle & Produktionsleitung
+- **André Heiden** — Zimmermeister & Leitung Fensterbau etc.
+- **Johannes Kindel** — Geselle
+- **Lukas Sprang** — Zimmerergeselle
+- **David Wiorkowski** — Azubi
+- **Dirk Grau** — Hilfsarbeiter (Schlüsselperson)
+
+**Verwaltung:**
+- **Michael Stocksiefen** — Prokurist & Bürokaufmann (= Onkel, seit 1999 im Betrieb)
+- **Martina Käufer** — Teamassistenz
+
+**Aushilfen:**
+- Hubert Schäfer, Peter Hövel
+
+**Partner intern/Umsetzung (Subunternehmer):**
+- Berisha (2–4 Mitarbeiter), Vitalij, Hans Schneider, Dominik Steinhart, Ivanka Hein (2–3 Mitarbeiter)
+
+---
+
+## Team-Leitsätze (FEELS WOOD TEAM 2026)
+
+1. Wir machen es dem nächsten immer so leicht wie möglich
+2. Aufgaben werden immer termingerecht erledigt — sonst umgehend Meldung!!
+3. Wir lernen, trainieren und entwickeln uns immer weiter — **FEHLER = HELFER!**
+
+---
+
+## Fuhrpark & Maschinen
+
+**Fahrzeuge:** Mercedes Atego, Mercedes Unimog, Mercedes Sprinter, VW T6 Bus, VW Crafter, VW Caddy 1222, Mercedes Vito (NEU), VW T-Roc, Audi Q2, Tesla Model Y
+**Anhänger:** Auwärter FW700, Auwärter HS1118, Böckmann PKW
+**Maschinen:** Stapler Linde, Stapler Combilift, Kran IGO 32, Hundegger (CNC-Abbundanlage), Weinmann (Wandbauanlage), Hallendeckenkran
 
 ---
 
 ## Sonstiges / Offene Punkte
 
-- Rolle von Herrn Becker im Team klären (Bauleiter? Architekt?)
 - Standard-Betreffzeilen erfragen
 - Feste E-Mail-Signatur (Telefon, Logo, Links) dokumentieren
 - Top-10-Kundenfragen sammeln für FAQ-Bot
